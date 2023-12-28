@@ -1,3 +1,4 @@
 # hand-gesture-mouse
-Uni related AI-mini project (using python) that extensively uses libraries like opencv,mediapipe,pyautogui.
-more info in the readme file
+Uni-related AI-mini project (using Python) that extensively uses libraries like opencv,mediapipe,pyautogui.
+
+It works by the concept 
